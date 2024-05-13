@@ -7,7 +7,7 @@
  -    Offer tools for creating, editing, and formatting the applications.
  -   Allow employers to create profiles for their companies, providing information about their culture, values, and job openings.
  -   Enable employers to post job openings with detailed descriptions, requirements, and application instructions.
- -   Provide options for employers to customize the look and feel of their job postings to align with their brand identity.
+ -   Provide options for employers to customize the look and feel of their job postings to align with their brand identity. 
 
 
 ## Technologies Used
@@ -28,3 +28,4 @@
   - [Nodejs](https://nodejs.org/en)
   - [Mongoose](https://mongoosejs.com/)
   - [Toast](https://www.npmjs.com/package/react-toastify)
+  - 
